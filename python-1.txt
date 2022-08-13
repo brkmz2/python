@@ -1,0 +1,30 @@
+#python-1
+
+a = 1
+b = 2
+
+# a and b are variables
+
+print(a+b)
+
+#print is used to print text to the screen
+#The value of the sum of the variables a and b is displayed as 3 on the screen
+#we do this in 4 operations
+
+print(a+b)
+
+#answer is 3
+
+print(a-b)
+
+#answer is -1
+
+print(a*b)
+
+#answer is 2
+
+print(a/b)
+
+#answer is 0,5
+
+#this is the first episode
